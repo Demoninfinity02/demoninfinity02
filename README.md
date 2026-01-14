@@ -10,24 +10,18 @@
 - 🎓 Currently pursuing my studies with a strong interest in **Computer Science & Software Development**
 - 💡 Love working on **real-world projects**, hackathons, and problem-solving
 - 🛠️ Exploring **Python ,C++, Data Structures & Algorithms**, and backend development
-- 🧩 Enjoy breaking down complex problems into simple, elegant solutions
+- 🧩 Currently Learning Advanced Django concepts
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Skills & Technologies
 
-**Languages**
-- Python, C, C++, JavaScript
+- **Languages:** Python, C, C++, JavaScript
+- **Frameworks:** Django, DRF, Flask
+- **Operating Systems & Tools:** Linux, Git/Github, Postman
+- **Databases:**  MySQL, SQL*Plus
+- **Concepts:** Object-Oriented Programming, Database Design, API Development, Data Structures and Algorithms
 
-**Frameworks & Tools**
-- Django, DRF, Flask, MySQL
-- PostMan,  Git, GitHub
-
-**Concepts**
-- Object-Oriented Programming
-- Database Design
-- API Development
-- Data Structures and Algorithms
 
 ---
 
@@ -35,7 +29,7 @@
 
 - 📦 **SafeShip** – AI-powered logistics integrity system (State Hackathon Winner 🏆)
 - 🛡️ **SafePassage App** – Smart safety navigation system with anomaly detection (Hackathon Winner 🏆)
-- 🚧 **Pothole Detector** - Pothole detector based on jerk patterns from gyroscope sensor of phone
+- 🚧 **Pothole Detector** - Pothole detector based on jerk patterns from gyroscope sensor of devices
 
 👉 *Check pinned repositories for detailed implementations.*
 
@@ -49,17 +43,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Currently Learning
+- DjangoREST-Framework (DRF)
+- Data Structures and Algorithms
+- Cybersecurity
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoninfinity02&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demoninfinity02&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/aditya-singh-33b502331
+- 💼 LinkedIn: [www.linkedin.com/in/aditya-singh-33b502331](https://www.linkedin.com/in/aditya-singh-33b502331/)
 - 📧 Email: adityasingh22005@gmail.com
 - 🌱 Always open to collaboration and learning opportunities!
 
